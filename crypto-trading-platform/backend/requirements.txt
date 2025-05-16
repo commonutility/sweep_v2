@@ -1,0 +1,12 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+python-socketio==5.9.0
+pydantic==2.4.2
+python-dotenv==1.0.0
+requests==2.31.0
+redis==5.0.1
+psycopg2-binary==2.9.9
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+tenacity==8.2.3
+websockets==11.0.3 
