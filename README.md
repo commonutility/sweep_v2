@@ -1,0 +1,3 @@
+just a super basic outline
+
+its that 3panel, shitty UI thing with fake data I think...
